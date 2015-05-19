@@ -4,7 +4,8 @@
 //
 //  Created by Pedro Alonso on 18/05/15.
 //  Copyright (c) 2015 Pedro Alonso. All rights reserved.
-//
+
+// This is ViewController
 
 import UIKit
 import AVFoundation
